@@ -1,0 +1,112 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Quang Ong
+#    Ingrid Keseler
+#    Anamika Kothari
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Shewanella oneidensis MR-1
+# Database: SONE211586CYC
+# Version: 22.5
+# File Name: species.dat
+# Date and time generated: August 21, 2018, 12:11:16
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    BIOMASS-TEMPLATES
+#    CCO-INSTANCES
+#    CITATIONS
+#    COMMENT
+#    CONTACT-EMAIL
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DOCUMENTATION
+#    GENETIC-CODE
+#    GENOME
+#    GENOME-UPDATE-DATE
+#    HIDDEN-NAMES
+#    HIDE-SLOT?
+#    INFERENCE-STATS
+#    INSTANCE-NAME-TEMPLATE
+#    MEMBER-SORT-FN
+#    MITOCHONDRIAL-GENETIC-CODE
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    PGDB-AUTHORS
+#    PGDB-COPYRIGHT
+#    PGDB-FOOTER-CITATION
+#    PGDB-HOME-PAGE
+#    PGDB-LAST-CONSISTENCY-CHECK
+#    PGDB-NAME
+#    PGDB-TIER
+#    PGDB-TYPE
+#    PGDB-UNIQUE-ID
+#    RANK
+#    SEQUENCE-SOURCE
+#    STRAIN-NAME
+#    SUBSPECIES-NAME
+#    SYNONYMS
+#
+UNIQUE-ID - SONE211586
+TYPES - TAX-211586
+COMMON-NAME - Shewanella oneidensis
+CCO-INSTANCES - CCI-CYTOSKELETON-GN
+CCO-INSTANCES - CCI-RIBOSOME-GN
+CCO-INSTANCES - CCI-FLAGELLUM-GN
+CCO-INSTANCES - CCI-PILUS-GN
+CCO-INSTANCES - CCI-BAC-NUCLEOID-GN
+CCO-INSTANCES - CCI-CW-BAC-NEG-GN
+CCO-INSTANCES - CCI-S-LAYER-GN
+CCO-INSTANCES - CCI-OUTER-MEM-GN
+CCO-INSTANCES - CCI-PM-BAC-NEG-GN
+CCO-INSTANCES - CCI-EXTRACELLULAR-GN
+CCO-INSTANCES - CCI-PERI-BAC-GN
+CCO-INSTANCES - CCI-CYTOSOL-GN
+COMMENT - This Pathway/Genome Database (PGDB) was generated on 20-Sep-2017 from the annotated genome of <i>Shewanella oneidensis</i> MR-1, as obtained from RefSeq (annotation date: 03-AUG-2016).  
+/The PGDB was created computationally by the PathoLogic component of the Pathway Tools software (version 21.5) |CITS: [26454094],[22675592]| using MetaCyc version 21.1 |CITS: [26527732]|. It has not undergone any manual curation or review, and  may contain errors.
+/ Development of this PGDB was supported by grant GM080746 from the National Institute of Health.
+/
+DBLINKS - (NCBI-BIOPROJECT "PRJNA57949" NIL |pecocyc| 3714627915 NIL NIL)
+DBLINKS - (NCBI-TAXONOMY-DB "211586" NIL |pecocyc| 3714627914 NIL NIL)
+GENETIC-CODE - 11
+GENOME - NC_004347
+GENOME - NC_004349
+GENOME-UPDATE-DATE - 03-AUG-2016
+INFERENCE-STATS - (HF |pecocyc| 3719263946 (("Filled Pathway Holes" . 48) ("All Pathway Holes" . 39)))
+INFERENCE-STATS - (PSORT |pecocyc| 3718650086 (("Proteins with PSORTdb localizations" . 2990)))
+INFERENCE-STATS - (UNIPROT |pecocyc| 3718650078 (("deleted protein features" . 0) ("new protein features" . 2640) ("proteins with new features" . 464)))
+INFERENCE-STATS - (GO |pecocyc| 3718649981 (("distinct" . 1) ("genes >1 exp GO term" . 0) (">1 exp GO term" . 0) (">1 GO term" . 296) ("protein/RNAs" . 4477)))
+INFERENCE-STATS - (GO |pecocyc| 3718649981 (("GO term annotations" . 0)))
+INFERENCE-STATS - (PFAM |pecocyc| 3718649980 (("Pfam features created" . 5522)))
+INFERENCE-STATS - (TIP |pecocyc| 3718649909 (("multisubstrate transporters" . 15) ("low-probability transporters" . 131) ("high-probability transporters" . 165)))
+INFERENCE-STATS - (TIP |pecocyc| 3718649909 (("reactions imported during inference" . 29) ("reactions created during inference" . 82)))
+INFERENCE-STATS - (TIP |pecocyc| 3718649887 (("PTS complexes created" . 0)))
+INFERENCE-STATS - (TIP |pecocyc| 3718649887 (("ATP complexes created" . 19)))
+MITOCHONDRIAL-GENETIC-CODE - 0
+PGDB-AUTHORS - kaipa
+PGDB-AUTHORS - ong
+PGDB-AUTHORS - keseler
+PGDB-AUTHORS - kothari
+PGDB-AUTHORS - caspi
+PGDB-AUTHORS - pkarp
+PGDB-LAST-CONSISTENCY-CHECK - 3718650488
+PGDB-NAME - SONE211586CYC
+PGDB-TIER - 3
+PGDB-UNIQUE-ID - 1GMP
+RANK - |strain|
+STRAIN-NAME - MR-1
+SYNONYMS - Shewanella oneidensis ATCC 700550
+SYNONYMS - Shewanella oneidensis str. MR-1
+SYNONYMS - Shewanella oneidensis strain MR-1
+SYNONYMS - Shewanella sp. MR-1
+SYNONYMS - Shewanella oneidensis MR-1
+NCBI-TAXONOMY-ID - 211586

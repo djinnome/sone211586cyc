@@ -1,0 +1,40 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Quang Ong
+#    Ingrid Keseler
+#    Anamika Kothari
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Shewanella oneidensis MR-1
+# Database: SONE211586CYC
+# Version: 22.5
+# File Name: protcplxs.col
+# Date and time generated: August 21, 2018, 12:11:49
+#
+#		1	2	3	4	5	1	2	3	4	5
+UNIQUE-ID	NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	SUBUNIT-COMPOSITION
+CPLX1GMP-1	predicted ABC efflux transporter of L-cysteine/glutathione	cydC	cydD				G1GMP-3510	G1GMP-3511				1*G1GMP-3510-MONOMER,1*G1GMP-3511-MONOMER
+CPLX1GMP-15	predicted ABC transporter of a phospholipid	mlaB	mlaC	mlaD	mlaE		G1GMP-3666	G1GMP-3667	G1GMP-3668	G1GMP-3669		1*G1GMP-3666-MONOMER,1*G1GMP-3667-MONOMER,1*G1GMP-3668-MONOMER,1*G1GMP-3669-MONOMER
+CPLX1GMP-8	predicted ABC transporter of Zn2+		znuA	znuB			G1GMP-535	G1GMP-537	G1GMP-538			1*G1GMP-535-MONOMER,1*G1GMP-537-MONOMER,1*G1GMP-538-MONOMER
+CPLX1GMP-4	predicted ABC transporter of Fe3+	fbpB	fbpA				G1GMP-696	G1GMP-697				1*G1GMP-696-MONOMER,1*G1GMP-697-MONOMER
+CPLX1GMP-11	predicted ABC transporter of a peptide	sapF	sapD	sapC	sapB	sapA	G1GMP-1652	G1GMP-1653	G1GMP-1654	G1GMP-1655	G1GMP-1656	1*G1GMP-1652-MONOMER,1*G1GMP-1653-MONOMER,1*G1GMP-1654-MONOMER,1*G1GMP-1655-MONOMER,1*G1GMP-1656-MONOMER
+CPLX1GMP-18	predicted ABC efflux transporter of a macrolide						G1GMP-3434	G1GMP-3435	G1GMP-3436	G1GMP-3438		1*G1GMP-3434-MONOMER,1*G1GMP-3435-MONOMER,1*G1GMP-3436-MONOMER,1*G1GMP-3438-MONOMER
+CPLX1GMP-14	predicted ABC efflux transporter of a fatty acid	ybbP	ybbA				G1GMP-2699	G1GMP-2700				1*G1GMP-2699-MONOMER,1*G1GMP-2700-MONOMER
+CPLX1GMP-7	predicted ABC transporter of tungstate	tupA	tupB	tupC			G1GMP-4363	G1GMP-4364	G1GMP-4365			1*G1GMP-4363-MONOMER,1*G1GMP-4364-MONOMER,1*G1GMP-4365-MONOMER
+CPLX1GMP-3	predicted ABC transporter of sulfate/thiosulfate	cysP	cysT	cysW			G1GMP-3357	G1GMP-3358	G1GMP-3359			1*G1GMP-3357-MONOMER,1*G1GMP-3358-MONOMER,1*G1GMP-3359-MONOMER
+CPLX1GMP-10	predicted ABC transporter of Cu2+	nosL	nosD	nosF	nosY		G1GMP-461	G1GMP-462	G1GMP-463	G1GMP-464		1*G1GMP-461-MONOMER,1*G1GMP-462-MONOMER,1*G1GMP-463-MONOMER,1*G1GMP-464-MONOMER
+CPLX1GMP-17	predicted ABC efflux transporter of a lipopolysaccharide	lptF	lptG				G1GMP-1267	G1GMP-1268				1*G1GMP-1267-MONOMER,1*G1GMP-1268-MONOMER
+CPLX1GMP-13	predicted ABC transporter of phosphate	pstA	pstC	pstS			G1GMP-3963	G1GMP-3964	G1GMP-3965			1*G1GMP-3963-MONOMER,1*G1GMP-3964-MONOMER,1*G1GMP-3965-MONOMER
+CPLX1GMP-6	predicted ABC efflux transporter of Na+	natB	natA				G1GMP-70	G1GMP-71				1*G1GMP-70-MONOMER,1*G1GMP-71-MONOMER
+CPLX1GMP-2	predicted ABC transporter of hemin	hmuB	hmuC				G1GMP-3417	G1GMP-3418				1*G1GMP-3417-MONOMER,1*G1GMP-3418-MONOMER
+CPLX1GMP-9	predicted ABC transporter of L-arginine	artM	artQ	artI			G1GMP-964	G1GMP-965	G1GMP-966			1*G1GMP-964-MONOMER,1*G1GMP-965-MONOMER,1*G1GMP-966-MONOMER
+CPLX1GMP-16	predicted ABC efflux transporter of a lipopolysaccharide	lptC	lptA				G1GMP-3673	G1GMP-3674				1*G1GMP-3673-MONOMER,1*G1GMP-3674-MONOMER
+CPLX1GMP-12	predicted ABC transporter of phosphate	pstC	pstA				G1GMP-1582	G1GMP-1583				1*G1GMP-1582-MONOMER,1*G1GMP-1583-MONOMER
+CPLX1GMP-19	predicted ABC efflux transporter of a macrolide	macA	macB	macC			G1GMP-766	G1GMP-767	G1GMP-768			1*G1GMP-766-MONOMER,1*G1GMP-767-MONOMER,1*G1GMP-768-MONOMER
+CPLX1GMP-5	predicted ABC transporter of putrescine	potF	potH	potI			G1GMP-1173	G1GMP-1175	G1GMP-1176			1*G1GMP-1173-MONOMER,1*G1GMP-1175-MONOMER,1*G1GMP-1176-MONOMER

@@ -1,0 +1,53 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Quang Ong
+#    Ingrid Keseler
+#    Anamika Kothari
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Shewanella oneidensis MR-1
+# Database: SONE211586CYC
+# Version: 22.5
+# File Name: regulation.dat
+# Date and time generated: August 21, 2018, 12:11:25
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    ACCESSORY-PROTEINS
+#    ANTI-ANTITERM-END-POS
+#    ANTI-ANTITERM-START-POS
+#    ANTITERMINATOR-END-POS
+#    ANTITERMINATOR-START-POS
+#    ASSOCIATED-BINDING-SITE
+#    ASSOCIATED-RNASE
+#    CITATIONS
+#    COMMENT
+#    CREDITS
+#    DATA-SOURCE
+#    DOCUMENTATION
+#    DOWNSTREAM-GENES-ONLY?
+#    GROWTH-CONDITIONS
+#    HIDE-SLOT?
+#    INSTANCE-NAME-TEMPLATE
+#    KI
+#    MECHANISM
+#    MEMBER-SORT-FN
+#    MODE
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    PAUSE-END-POS
+#    PAUSE-START-POS
+#    PHYSIOLOGICALLY-RELEVANT?
+#    REGULATED-ENTITY
+#    REGULATOR
+#    SYNONYMS
+#
+# The SONE211586 database contains no Regulation.

@@ -1,0 +1,206 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Quang Ong
+#    Ingrid Keseler
+#    Anamika Kothari
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Shewanella oneidensis MR-1
+# Database: SONE211586CYC
+# Version: 22.5
+# File Name: transporters.col
+# Date and time generated: August 21, 2018, 12:11:49
+#
+UNIQUE-ID	NAME	REACTION-EQUATION	SUBUNIT-COMPOSITION
+G1GMP-2600-MONOMER	transporter-like protein HCC family	6-hydroxy-2-cyclohexen-one-carboxylate[periplasm]  <-->  6-hydroxy-2-cyclohexen-one-carboxylate[cytosol]	1*G1GMP-2600-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + beta-D-cellobiose[out]  <-->  beta-D-cellobiose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-124-MONOMER	6TMS neutral amino acid transporter (NAAT) family protein YhgN	a neutral amino acid[periplasm]  <-->  a neutral amino acid[cytosol]	1*G1GMP-124-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + alpha-maltose[out]  <-->  alpha-maltose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-2-MONOMER	glutathione uptake transporter	glutathione[periplasm]  <-->  glutathione[cytosol]	1*G1GMP-2-MONOMER
+G1GMP-339-MONOMER	sodium:calcium antiporter CaCA family YrbG	Ca2+[periplasm] + Na+[cytosol]  <-->  Ca2+[cytosol] + Na+[periplasm]	1*G1GMP-339-MONOMER
+G1GMP-4012-MONOMER	sodium-dependent hypotaurine transporter	hypotaurine[periplasm] + Na+[periplasm]  <-->  hypotaurine[cytosol] + Na+[cytosol]	1*G1GMP-4012-MONOMER
+G1GMP-695-MONOMER	ABC-type Fe3+ uptake system ATPase component FbpC	Fe3+[out] + ATP + H2O  <-->  Fe3+[in] + ADP + phosphate + H+	1*G1GMP-695-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + beta-D-fructopyranose[out]  <-->  beta-D-fructopyranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-434-MONOMER	alpha-ketoglutarate uptake system bifunctional large and small subunit permease component	2-oxoglutarate[periplasm] + H+[periplasm]  <-->  2-oxoglutarate[cytosol] + H+[cytosol]	1*G1GMP-434-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + alpha,alpha-trehalose[out]  <-->  alpha,alpha-trehalose 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-425-MONOMER	zinc/cadmium-responsive efflux pump	Zn2+[periplasm]  <-->  Zn2+[cytosol]	1*G1GMP-425-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + keto-L-sorbose[out]  <-->  keto-L-sorbose 1-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + N-acetyl-beta-D-glucosamine[out]  <-->  N-acetyl-beta-D-glucosamine 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1301-MONOMER	Hg(II) uptake system permease component MerT family	Hg2+[periplasm] + H+[periplasm]  <-->  Hg2+[cytosol] + H+[cytosol]	1*G1GMP-1301-MONOMER
+CPLX1GMP-1	predicted ABC efflux transporter of L-cysteine/glutathione	L-cysteine[cytosol] + ATP + H2O  <-->  L-cysteine[periplasm] + ADP + phosphate	1*G1GMP-3510-MONOMER,1*G1GMP-3511-MONOMER
+G1GMP-1287-MONOMER	short chain fatty acids transporter AtoE	a short chain fatty acid[periplasm]  <-->  a short chain fatty acid[cytosol]	1*G1GMP-1287-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + N-acetyl-alpha-D-glucosamine[out]  <-->  N-acetyl-alpha-D-glucosamine 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-2835-MONOMER	cation:alanine/glycine transporter AGCS family	glycine[periplasm]  <-->  glycine[cytosol]	1*G1GMP-2835-MONOMER
+G1GMP-1790-MONOMER	divalent cation (Mg2+, Co2+, Ni2+) transporter CorA	Co2+[periplasm]  <-->  Co2+[cytosol]	1*G1GMP-1790-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + D-fructopyranose[out]  <-->  D-fructopyranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-146-MONOMER	proton:glutamate symporter DAACS family	glutamate[periplasm] + H+[periplasm]  <-->  glutamate[cytosol] + H+[cytosol]	1*G1GMP-146-MONOMER
+G1GMP-2874-MONOMER	thiophosphate efflux pump permease component	thiophosphate[cytosol] + H+[cytosol]  <-->  thiophosphate[periplasm] + H+[periplasm]	1*G1GMP-2874-MONOMER
+G1GMP-3004-MONOMER	flagellar protein export ATPase FliI	ADP + phosphate + 4 H+[out]  <-->  ATP + H2O + 3 H+[in]	1*G1GMP-3004-MONOMER
+G1GMP-3693-MONOMER	metal ion transporter MIT family	a metal cation[periplasm]  <-->  a metal cation[cytosol]	1*G1GMP-3693-MONOMER
+G1GMP-2835-MONOMER	cation:alanine/glycine transporter AGCS family	L-alanine[periplasm]  <-->  L-alanine[cytosol]	1*G1GMP-2835-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + beta-maltose[out]  <-->  beta-maltose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-706-MONOMER	ABC-type Ni2+/Co2+ export system bifunctional ATPase and permease components AtmA	Ni2+[cytosol] + ATP + H2O  <-->  Ni2+[periplasm] + ADP + phosphate	1*G1GMP-706-MONOMER
+CPLX1GMP-4	predicted ABC transporter of Fe3+	Fe3+[periplasm] + ATP + H2O  <-->  Fe3+[cytosol] + ADP + phosphate	1*G1GMP-696-MONOMER,1*G1GMP-697-MONOMER
+G1GMP-3490-MONOMER	sodium-dependent bicarbonate transporter (SBT) family	hydrogencarbonate[periplasm] + Na+[periplasm]  <-->  hydrogencarbonate[cytosol] + Na+[cytosol]	1*G1GMP-3490-MONOMER
+G1GMP-2500-MONOMER	nucleoside sugar transporter DeoT	a sugar[periplasm]  <-->  a sugar[cytosol]	1*G1GMP-2500-MONOMER
+G1GMP-933-MONOMER	lysine transporter LysW	L-lysine[cytosol]  <-->  L-lysine[periplasm]	1*G1GMP-933-MONOMER
+CPLX1GMP-12	predicted ABC transporter of phosphate	ATP + phosphate[periplasm] + H2O  <-->  ADP + 2 phosphate[cytosol] + H+	1*G1GMP-1582-MONOMER,1*G1GMP-1583-MONOMER
+CPLX1GMP-15	predicted ABC transporter of a phospholipid	a phospholipid[periplasm] + ATP + H2O  <-->  a phospholipid[cytosol] + ADP + phosphate	1*G1GMP-3666-MONOMER,1*G1GMP-3667-MONOMER,1*G1GMP-3668-MONOMER,1*G1GMP-3669-MONOMER
+G1GMP-1180-MONOMER	proton:oligopeptide symporter POT family	an oligopeptide[periplasm] + H+[periplasm]  <-->  an oligopeptide[cytosol] + H+[cytosol]	1*G1GMP-1180-MONOMER
+G1GMP-502-MONOMER	amino acid efflux protein RhtB family	an amino acid[cytosol]  <-->  an amino acid[periplasm]	1*G1GMP-502-MONOMER
+G1GMP-3360-MONOMER	ABC-type sulfate/thiosulfate uptake system ATPase component CysA	ATP + thiosulfate[out] + H2O  <-->  ADP + thiosulfate[in] + phosphate + H+	1*G1GMP-3360-MONOMER
+G1GMP-1174-MONOMER	ABC-type putrescine uptake system ATPase component PotG	a polyamine[out] + ATP + H2O  <-->  a polyamine[in] + ADP + phosphate	1*G1GMP-1174-MONOMER
+CPLX1GMP-9	predicted ABC transporter of L-arginine	L-arginine[periplasm] + ATP + H2O  <-->  L-arginine[cytosol] + ADP + phosphate	1*G1GMP-964-MONOMER,1*G1GMP-965-MONOMER,1*G1GMP-966-MONOMER
+G1GMP-886-MONOMER	branched-chain amino acid: cation symporter BrnQ	a branched-chain amino acid[periplasm] + a cation[periplasm]  <-->  a branched-chain amino acid[cytosol] + a cation[cytosol]	1*G1GMP-886-MONOMER
+G1GMP-1030-MONOMER	hypoxanthine/guanine permease AzgA family	hypoxanthine[periplasm] + guanine[periplasm]  <-->  hypoxanthine[cytosol] + guanine[cytosol]	1*G1GMP-1030-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + aldehydo-D-glucose[out]  <-->  aldehydo-D-glucose 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-2697-MONOMER	sodium:glutamate symporter GltS	glutamate[periplasm] + Na+[periplasm]  <-->  glutamate[cytosol] + Na+[cytosol]	1*G1GMP-2697-MONOMER
+G1GMP-856-MONOMER	serine uptake transporter SdaC	serine[periplasm]  <-->  serine[cytosol]	1*G1GMP-856-MONOMER
+G1GMP-3585-MONOMER	ABC-type molybdate uptake system substrate-binding component ModA	molybdate[out] + ATP + H2O  <-->  molybdate[in] + ADP + phosphate + H+	1*G1GMP-3585-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + beta-L-sorbopyranose[out]  <-->  beta-L-sorbopyranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-4218-MONOMER	L-leucine transporter YjeH	L-leucine[periplasm]  <-->  L-leucine[cytosol]	1*G1GMP-4218-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + beta-D-mannopyranose[out]  <-->  beta-D-mannopyranose 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + alpha-L-sorbopyranose[out]  <-->  alpha-L-sorbopyranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + alpha-D-galactose[out]  <-->  alpha-D-galactose 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-2657-MONOMER	N-acetylglucosamine/uracil transporter UraA	N-acetyl-alpha-D-glucosamine[periplasm]  <-->  N-acetyl-alpha-D-glucosamine[cytosol]	1*G1GMP-2657-MONOMER
+G1GMP-2496-MONOMER	thiamin uptake permease PnuT	thiamine[periplasm] + H+[periplasm]  <-->  thiamine[cytosol] + H+[cytosol]	1*G1GMP-2496-MONOMER
+CPLX1GMP-1	predicted ABC efflux transporter of L-cysteine/glutathione	glutathione[cytosol] + ATP + H2O  <-->  glutathione[periplasm] + ADP + phosphate	1*G1GMP-3510-MONOMER,1*G1GMP-3511-MONOMER
+G1GMP-3360-MONOMER	ABC-type sulfate/thiosulfate uptake system ATPase component CysA	sulfate[out] + ATP + H2O  <-->  sulfate[in] + ADP + phosphate + H+	1*G1GMP-3360-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	N-acetyl-D-muramate[out] + an [HPr protein]-Npi-phospho-L-histidine  <-->  N-acetyl-D-muramate 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-4357-MONOMER	ABC-type amino acid uptake system substrate-binding component PAAT family	an amino acid[periplasm] + ATP + H2O  <-->  an amino acid[cytosol] + ADP + phosphate	1*G1GMP-4357-MONOMER
+G1GMP-1803-MONOMER	homogentisate export protein	homogentisate[cytosol]  <-->  homogentisate[periplasm]	1*G1GMP-1803-MONOMER
+G1GMP-4266-MONOMER	DNA damage-inducible multidrug and toxin efflux protein DinF	DNAn[cytosol]  <-->  DNAn[periplasm]	1*G1GMP-4266-MONOMER
+G1GMP-2681-MONOMER	tellurite-resistance/dicarboxylate transporter (TDT) family protein	a dicarboxylate[periplasm]  <-->  a dicarboxylate[cytosol]	1*G1GMP-2681-MONOMER
+G1GMP-3301-MONOMER	alanine/glycine:cation symporter (AGCS) family protein	L-alanine[periplasm] + glycine[periplasm]  <-->  L-alanine[cytosol] + glycine[cytosol]	1*G1GMP-3301-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + L-ascorbate[out]  <-->  L-ascorbate 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + 2-amino-2-deoxy-D-gluconate[out]  <-->  2-amino-2-deoxy-D-gluconate 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-706-MONOMER	ABC-type Ni2+/Co2+ export system bifunctional ATPase and permease components AtmA	Co2+[cytosol] + ATP + H2O  <-->  Co2+[periplasm] + ADP + phosphate	1*G1GMP-706-MONOMER
+CPLX1GMP-5	predicted ABC transporter of putrescine	putrescine[periplasm] + ATP + H2O  <-->  putrescine[cytosol] + ADP + phosphate	1*G1GMP-1173-MONOMER,1*G1GMP-1175-MONOMER,1*G1GMP-1176-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + D-glucosamine[out]  <-->  D-glucosamine 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + 2-O-(alpha-D-mannosyl)-D-glycerate[out]  <-->  2-O-(6-phospho-alpha-D-mannosyl)-D-glycerate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + D-galactose[out]  <-->  a D-galactose 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-928-MONOMER	calcium:proton antiporter ChaA	Ca2+[periplasm] + H+[cytosol]  <-->  Ca2+[cytosol] + H+[periplasm]	1*G1GMP-928-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + chitobiose[out]  <-->  chitobiose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1790-MONOMER	divalent cation (Mg2+, Co2+, Ni2+) transporter CorA	Ni2+[periplasm]  <-->  Ni2+[cytosol]	1*G1GMP-1790-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + aldehydo-D-galactose[out]  <-->  aldehydo-D-galactose 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-2697-MONOMER	sodium:glutamate symporter GltS	2 Na+[periplasm] + L-glutamate[periplasm]  <-->  2 Na+[cytosol] + L-glutamate[cytosol]	1*G1GMP-2697-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + beta-D-galactose[out]  <-->  beta-D-galactose 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1218-MONOMER	homotrimeric cation channel (TRIC) family protein YadS	a cation[cytosol]  <-->  a cation[periplasm]	1*G1GMP-1218-MONOMER
+G1GMP-4247-MONOMER	copper/silver efflux pump MFP component CusB	Ag+[cytosol]  <-->  Ag+[periplasm]	1*G1GMP-4247-MONOMER
+G1GMP-2657-MONOMER	N-acetylglucosamine/uracil transporter UraA	uracil[cytosol]  <-->  uracil[periplasm]	1*G1GMP-2657-MONOMER
+G1GMP-3450-MONOMER	ABC-type cobalamin uptake system substrate-binding component BtuF	a Coalpha-[alpha-(5,6-dimethylbenzimidazolyl)]-cobamide[periplasm] + ATP + H2O  <-->  a Coalpha-[alpha-(5,6-dimethylbenzimidazolyl)]-cobamide[cytosol] + ADP + phosphate	1*G1GMP-3450-MONOMER
+CPLX1GMP-10	predicted ABC transporter of Cu2+	Cu2+[periplasm] + ATP + H2O  <-->  Cu2+[cytosol] + ADP + phosphate	1*G1GMP-461-MONOMER,1*G1GMP-462-MONOMER,1*G1GMP-463-MONOMER,1*G1GMP-464-MONOMER
+G1GMP-2500-MONOMER	nucleoside sugar transporter DeoT	a nucleoside[periplasm]  <-->  a nucleoside[cytosol]	1*G1GMP-2500-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + galactitol[out]  <-->  galactitol 1-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + trehalose[out]  <-->  D-trehalose 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-3481-MONOMER	K+:H+ antiporter KhaP	K+[cytosol] + H+[periplasm]  <-->  K+[periplasm] + H+[cytosol]	1*G1GMP-3481-MONOMER
+G1GMP-2873-MONOMER	thiophosphate efflux pump MFP component	thiophosphate[cytosol]  <-->  thiophosphate[periplasm]	1*G1GMP-2873-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + keto-D-fructose[out]  <-->  keto-D-fructose 1-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-4082-MONOMER	anaerobic C4-dicarboxylate transporter DcuB	a C4-dicarboxylate[periplasm]  <-->  a C4-dicarboxylate[cytosol]	1*G1GMP-4082-MONOMER
+CPLX1GMP-16	predicted ABC efflux transporter of a lipopolysaccharide	a lipopolysaccharide[cytosol] + ATP + H2O  <-->  a lipopolysaccharide[periplasm] + ADP + phosphate	1*G1GMP-3673-MONOMER,1*G1GMP-3674-MONOMER
+G1GMP-3772-MONOMER	putrescine uptake protein PuuP	putrescine[periplasm]  <-->  putrescine[cytosol]	1*G1GMP-3772-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + aldehydo-D-mannose[out]  <-->  aldehydo-D-mannose 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-859-MONOMER	dicarboxylate:amino acid:cation symporter DAACS family	a dicarboxylate[periplasm] + H+[periplasm]  <-->  a dicarboxylate[cytosol] + H+[cytosol]	1*G1GMP-859-MONOMER
+G1GMP-1790-MONOMER	divalent cation (Mg2+, Co2+, Ni2+) transporter CorA	Mg2+[periplasm]  <-->  Mg2+[cytosol]	1*G1GMP-1790-MONOMER
+G1GMP-2917-MONOMER	TRAP-type C4-dicarboxylate:H+ symport system large permease component DctM	a C4-dicarboxylate[periplasm] + 2 H+[periplasm]  <-->  a C4-dicarboxylate[cytosol] + 2 H+[cytosol]	1*G1GMP-2917-MONOMER
+G1GMP-2978-MONOMER	phospholipid transport-associated protein MlaA	a phospholipid[periplasm]  <-->  a phospholipid[cytosol]	1*G1GMP-2978-MONOMER
+G1GMP-3968-MONOMER	Na-dependent nicotinamide ribose transporter NupC	1-(beta-D ribofuranosyl)nicotinamide[periplasm]  <-->  1-(beta-D ribofuranosyl)nicotinamide[cytosol]	1*G1GMP-3968-MONOMER
+CPLX1GMP-2	predicted ABC transporter of hemin	hemin[periplasm] + ATP + H2O  <-->  hemin[cytosol] + ADP + phosphate	1*G1GMP-3417-MONOMER,1*G1GMP-3418-MONOMER
+G1GMP-2544-MONOMER	putative histidine porter YuiF	L-histidine[periplasm]  <-->  L-histidine[cytosol]	1*G1GMP-2544-MONOMER
+G1GMP-1553-MONOMER	Cu2+-exporting ATPase CopA	Cu2+[in] + ATP + H2O  <-->  Cu2+[out] + ADP + phosphate + H+	1*G1GMP-1553-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + sucrose[out]  <-->  an [HPr]-L-histidine + sucrose 6G-phosphate[in]	1*G1GMP-1493-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + L-sorbofuranose[out]  <-->  L-sorbofuranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1796-MONOMER	glutamate/aspartate:proton symporter GltP	glutamate[periplasm] + L-aspartate[periplasm]  <-->  glutamate[cytosol] + L-aspartate[cytosol]	1*G1GMP-1796-MONOMER
+CPLX1GMP-6	predicted ABC efflux transporter of Na+	Na+[cytosol] + ATP + H2O  <-->  Na+[periplasm] + ADP + phosphate	1*G1GMP-70-MONOMER,1*G1GMP-71-MONOMER
+G1GMP-4247-MONOMER	copper/silver efflux pump MFP component CusB	Cu2+[periplasm]  <-->  Cu2+[cytosol]	1*G1GMP-4247-MONOMER
+G1GMP-2694-MONOMER	autoinducer-2 transport protein TqsA	autoinducer 2[periplasm]  <-->  autoinducer 2[cytosol]	1*G1GMP-2694-MONOMER
+		a chitodextrin[out]  <-->  a chitodextrin[in]	
+G1GMP-3454-MONOMER	ABC-type monosaccharide transport system substrate binding component	a monosaccharide[periplasm] + ATP + H2O  <-->  a monosaccharide[cytosol] + ADP + phosphate	1*G1GMP-3454-MONOMER
+G1GMP-992-MONOMER	tyrosine transporter TyrP-like protein	L-tyrosine[periplasm]  <-->  L-tyrosine[cytosol]	1*G1GMP-992-MONOMER
+CPLX1GMP-11	predicted ABC transporter of a peptide	a peptide[periplasm] + ATP + H2O  <-->  a peptide[cytosol] + ADP + phosphate	1*G1GMP-1652-MONOMER,1*G1GMP-1653-MONOMER,1*G1GMP-1654-MONOMER,1*G1GMP-1655-MONOMER,1*G1GMP-1656-MONOMER
+G1GMP-3678-MONOMER	phosphotransferase system (PTS) sugar-specific IIA component PtsN	a sugar[periplasm] + an [HPr protein]-Npi-phospho-L-histidine  <-->  a sugar 6-phosphate[cytosol] + an [HPr]-L-histidine	1*G1GMP-3678-MONOMER
+G1GMP-3313-MONOMER	sulfate transporter SulP family	sulfate[periplasm]  <-->  sulfate[cytosol]	1*G1GMP-3313-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + alpha-D-cellobiose[out]  <-->  alpha-D-cellobiose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + alpha-chitobiose[out]  <-->  alpha-chitobiose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-60-MONOMER	sodium-dependent potassium uptake system NAD binding component KtrA	K+[periplasm] + Na+[periplasm]  <-->  K+[cytosol] + Na+[cytosol]	1*G1GMP-60-MONOMER
+G1GMP-956-MONOMER	ABC-type cobalamin uptake system ATPase component BtuD	ATP + cob(I)alamin[out] + H2O  <-->  ADP + cob(I)alamin[in] + phosphate + H+	1*G1GMP-956-MONOMER
+G1GMP-1768-MONOMER	major facilitator superfamily transporter required for growth on DMSO MFS superfamily	dimethyl sulfoxide[periplasm] + H+[periplasm]  <-->  dimethyl sulfoxide[cytosol] + H+[cytosol]	1*G1GMP-1768-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + D-mannitol[out]  <-->  D-mannitol 1-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-2893-MONOMER	serine/threonine:Na+ symporter SstT	serine[periplasm] + L-threonine[periplasm]  <-->  serine[cytosol] + L-threonine[cytosol]	1*G1GMP-2893-MONOMER
+G1GMP-1577-MONOMER	putative amino acid efflux permease RhtB family	an amino acid[periplasm] + H+[periplasm]  <-->  an amino acid[cytosol] + H+[cytosol]	1*G1GMP-1577-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + beta-L-sorbofuranose[out]  <-->  beta-L-sorbofuranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + D-sorbitol[out]  <-->  D-sorbitol 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-2973-MONOMER	outer membrane polysaccharide export channel protein Wza	a polysaccharide[cytosol]  <-->  a polysaccharide[periplasm]	1*G1GMP-2973-MONOMER
+G1GMP-1174-MONOMER	ABC-type putrescine uptake system ATPase component PotG	ATP + spermidine[out] + H2O  <-->  ADP + spermidine[in] + phosphate + H+	1*G1GMP-1174-MONOMER
+G1GMP-3585-MONOMER	ABC-type molybdate uptake system substrate-binding component ModA	ATP + molybdate[out] + H2O  <-->  ADP + molybdate[in] + phosphate + H+	1*G1GMP-3585-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + D-glucose[out]  <-->  D-glucose 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-916-MONOMER	chromate efflux pump	chromate[cytosol]  <-->  chromate[periplasm]	1*G1GMP-916-MONOMER
+CPLX1GMP-18	predicted ABC efflux transporter of a macrolide	a macrolide[cytosol] + ATP + H2O  <-->  a macrolide[periplasm] + ADP + phosphate	1*G1GMP-3434-MONOMER,1*G1GMP-3435-MONOMER,1*G1GMP-3436-MONOMER,1*G1GMP-3438-MONOMER
+G1GMP-2685-MONOMER	bidirectional formate transporter FocA	formate[cytosol]  <-->  formate[periplasm]	1*G1GMP-2685-MONOMER
+G1GMP-1970-MONOMER	aspartate-alanine antiporter	L-aspartate[periplasm] + L-alanine[cytosol]  <-->  L-aspartate[cytosol] + L-alanine[periplasm]	1*G1GMP-1970-MONOMER
+G1GMP-1231-MONOMER	4-toluene sulfonate uptake permease family protein	4-toluenesulfonate[periplasm] + H+[periplasm]  <-->  4-toluenesulfonate[cytosol] + H+[cytosol]	1*G1GMP-1231-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + maltose[out]  <-->  maltose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-3360-MONOMER	ABC-type sulfate/thiosulfate uptake system ATPase component CysA	sulfate[out] + ATP + H2O  <-->  sulfate[in] + ADP + phosphate + H+	1*G1GMP-3360-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + salicin[out]  <-->  salicin 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-252-MONOMER	ABC-type heme export system ATPase component CcmA	heme b[in] + ATP + H2O  <-->  heme b[out] + ADP + phosphate + H+	1*G1GMP-252-MONOMER
+G1GMP-1145-MONOMER	purine transporter AzgA family	a purine[periplasm]  <-->  a purine[cytosol]	1*G1GMP-1145-MONOMER
+G1GMP-2976-MONOMER	proton:peptide symporter POT family	a peptide[periplasm] + H+[periplasm]  <-->  a peptide[cytosol] + H+[cytosol]	1*G1GMP-2976-MONOMER
+G1GMP-4251-MONOMER	high affinity tryptophan transporter Mtr	L-tryptophan[periplasm]  <-->  L-tryptophan[cytosol]	1*G1GMP-4251-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + D-cellobiose[out]  <-->  D-cellobiose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + alpha-L-sorbofuranose[out]  <-->  alpha-L-sorbofuranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+CPLX1GMP-3	predicted ABC transporter of sulfate/thiosulfate	sulfate[periplasm] + ATP + H2O  <-->  sulfate[cytosol] + ADP + phosphate	1*G1GMP-3357-MONOMER,1*G1GMP-3358-MONOMER,1*G1GMP-3359-MONOMER
+CPLX1GMP-7	predicted ABC transporter of tungstate	tungstate[periplasm] + ATP + H2O  <-->  tungstate[cytosol] + ADP + phosphate	1*G1GMP-4363-MONOMER,1*G1GMP-4364-MONOMER,1*G1GMP-4365-MONOMER
+		2 H+[in]  <-->  2 H+[out]	
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + L-sorbose[out]  <-->  an L-sorbose 1-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1612-MONOMER	branched-chain amino acid efflux pump permease component 1 AzlC family	a branched-chain amino acid[cytosol] + H+[cytosol]  <-->  a branched-chain amino acid[periplasm] + H+[periplasm]	1*G1GMP-1612-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + alpha-D-mannopyranose[out]  <-->  alpha-D-mannopyranose 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-3172-MONOMER	putative siderophore transporter component 3	a siderophore[periplasm]  <-->  a siderophore[cytosol]	1*G1GMP-3172-MONOMER
+G1GMP-3448-MONOMER	nucleoside:proton symporter NupX	a nucleoside[periplasm] + H+[periplasm]  <-->  a nucleoside[cytosol] + H+[cytosol]	1*G1GMP-3448-MONOMER
+G1GMP-1204-MONOMER	chloride channel protein ClC family	chloride[periplasm]  <-->  chloride[cytosol]	1*G1GMP-1204-MONOMER
+		4 H+[in]  <-->  4 H+[out]	
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + D-mannopyranose[out]  <-->  an [HPr]-L-histidine[in] + D-mannopyranose 6-phosphate	1*G1GMP-1493-MONOMER
+G1GMP-1406-MONOMER	lactate transport protein LctP family	lactate[cytosol]  <-->  lactate[periplasm]	1*G1GMP-1406-MONOMER
+G1GMP-505-MONOMER	arsenate permease ACR3 family	arsenate[periplasm] + H+[periplasm]  <-->  arsenate[cytosol] + H+[cytosol]	1*G1GMP-505-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + beta-D-fructofuranose[out]  <-->  beta-D-fructofuranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + L-sorbopyranose[out]  <-->  L-sorbopyranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + D-fructofuranose[out]  <-->  D-fructofuranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + alpha-D-fructofuranose[out]  <-->  alpha-D-fructofuranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1302-MONOMER	Hg(II) uptake system substrate-binding component MerP family	Hg2+[periplasm]  <-->  Hg2+[cytosol]	1*G1GMP-1302-MONOMER
+G1GMP-2588-MONOMER	ABC-type lipid A export system bifunctional ATPase and permease components MsbA	a lipid A[cytosol] + ATP + H2O  <-->  a lipid A[periplasm] + ADP + phosphate	1*G1GMP-2588-MONOMER
+G1GMP-859-MONOMER	dicarboxylate:amino acid:cation symporter DAACS family	a cation[periplasm] + H+[periplasm]  <-->  a cation[cytosol] + H+[cytosol]	1*G1GMP-859-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + N-acetyl-D-glucosamine[out]  <-->  an [HPr]-L-histidine + N-acetyl-D-glucosamine 6-phosphate[in]	1*G1GMP-1493-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + D-galactopyranose[out]  <-->  D-galactopyranose 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-4251-MONOMER	high affinity tryptophan transporter Mtr	S-methyl-5-thio-D-ribose[cytosol]  <-->  S-methyl-5-thio-D-ribose[periplasm]	1*G1GMP-4251-MONOMER
+G1GMP-1408-MONOMER	heat shock nucleotide exchange factor GrpE	heat[periplasm] + H+[cytosol]  <-->  heat[cytosol] + H+[periplasm]	1*G1GMP-1408-MONOMER
+G1GMP-60-MONOMER	sodium-dependent potassium uptake system NAD binding component KtrA	Na+[periplasm] + NAD+[periplasm]  <-->  Na+[cytosol] + NAD+[cytosol]	1*G1GMP-60-MONOMER
+G1GMP-3474-MONOMER	NAD(P) transhydrogenase alpha subunit PntA	NADPH + NAD+ + H+[in]  <-->  NADP+ + NADH + H+[out]	1*G1GMP-3474-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + D-fructose[out]  <-->  D-fructose 1-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1755-MONOMER	quaternary ammonium compound efflux pump SugE	ammonium[cytosol] + H+[cytosol]  <-->  ammonium[periplasm] + H+[periplasm]	1*G1GMP-1755-MONOMER
+G1GMP-1153-MONOMER	putative arginine uptake porter ArgW	L-arginine[periplasm]  <-->  L-arginine[cytosol]	1*G1GMP-1153-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + D-glucopyranose[out]  <-->  D-glucopyranose 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + N,N'-diacetylchitobiose[out]  <-->  N,N'-diacetylchitobiose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-180-MONOMER	bifunctional lysophospholipid transporter-2-acyl glycerophosphoethanolamine acyl transferase/acyl ACP synthetase	a lyso-phospholipid[periplasm]  <-->  a lyso-phospholipid[cytosol]	1*G1GMP-180-MONOMER
+G1GMP-1001-MONOMER	methionine:proton antiporter MetT	L-methionine[cytosol] + H+[periplasm]  <-->  L-methionine[periplasm] + H+[cytosol]	1*G1GMP-1001-MONOMER
+		arsenite[in] + ATP + H2O  <-->  arsenite[out] + ADP + phosphate + H+	
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + alpha,beta-trehalose[out]  <-->  alpha,beta-trehalose 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+G1GMP-3267-MONOMER	N-acetyl glucosamine transporter NagP	D-glucosamine[periplasm]  <-->  D-glucosamine[cytosol]	1*G1GMP-3267-MONOMER
+G1GMP-435-MONOMER	alpha-ketoglutarate uptake system substrate-binding component	2-oxoglutarate[periplasm]  <-->  2-oxoglutarate[cytosol]	1*G1GMP-435-MONOMER
+G1GMP-300-MONOMER	putrescine:ornithine antiporter PotE	putrescine[periplasm] + ornithine[cytosol]  <-->  putrescine[cytosol] + ornithine[periplasm]	1*G1GMP-300-MONOMER
+G1GMP-956-MONOMER	ABC-type cobalamin uptake system ATPase component BtuD	cobinamide[out] + ATP + H2O  <-->  cobinamide[in] + ADP + phosphate + H+	1*G1GMP-956-MONOMER
+CPLX1GMP-14	predicted ABC efflux transporter of a fatty acid	a fatty acid[cytosol] + ATP + H2O  <-->  a fatty acid[periplasm] + ADP + phosphate	1*G1GMP-2699-MONOMER,1*G1GMP-2700-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	an [HPr protein]-Npi-phospho-L-histidine + D-mannose[out]  <-->  D-mannose 6-phosphate[in] + an [HPr]-L-histidine	1*G1GMP-1493-MONOMER
+CPLX1GMP-3	predicted ABC transporter of sulfate/thiosulfate	thiosulfate[periplasm] + ATP + H2O  <-->  thiosulfate[cytosol] + ADP + phosphate	1*G1GMP-3357-MONOMER,1*G1GMP-3358-MONOMER,1*G1GMP-3359-MONOMER
+G1GMP-4132-MONOMER	cadmium and zinc efflux pump FieF	Cd2+[periplasm]  <-->  Cd2+[cytosol]	1*G1GMP-4132-MONOMER
+G1GMP-3503-MONOMER	inorganic phosphate transporter PiT family	phosphate[cytosol]  <-->  phosphate[periplasm]	1*G1GMP-3503-MONOMER
+G1GMP-4248-MONOMER	copper/silver efflux pump permease component CusA	Cu2+[cytosol] + Ag+[cytosol]  <-->  Cu2+[periplasm] + Ag+[periplasm]	1*G1GMP-4248-MONOMER
+G1GMP-1621-MONOMER	D-glycerate transporter GrtP	D-glycerate[periplasm]  <-->  D-glycerate[cytosol]	1*G1GMP-1621-MONOMER
+G1GMP-1493-MONOMER	phosphotransferase system (PTS) glucose-specific IIBC component PtsG	2-deoxy-D-glucose[out] + an [HPr protein]-Npi-phospho-L-histidine  <-->  an [HPr]-L-histidine[in] + 2-deoxy-D-glucose 6-phosphate	1*G1GMP-1493-MONOMER
+G1GMP-3322-MONOMER	proton/sodium:glutamate symporter DAACS family	Na+[periplasm] + H+[periplasm]  <-->  Na+[cytosol] + H+[cytosol]	1*G1GMP-3322-MONOMER
+G1GMP-252-MONOMER	ABC-type heme export system ATPase component CcmA	ferroheme b[in] + ATP + H2O  <-->  ferroheme b[out] + ADP + phosphate + H+	1*G1GMP-252-MONOMER
+CPLX1GMP-8	predicted ABC transporter of Zn2+	Zn2+[periplasm] + ATP + H2O  <-->  Zn2+[cytosol] + ADP + phosphate	1*G1GMP-535-MONOMER,1*G1GMP-537-MONOMER,1*G1GMP-538-MONOMER

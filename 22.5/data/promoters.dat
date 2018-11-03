@@ -1,0 +1,60 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Quang Ong
+#    Ingrid Keseler
+#    Anamika Kothari
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Shewanella oneidensis MR-1
+# Database: SONE211586CYC
+# Version: 22.5
+# File Name: promoters.dat
+# Date and time generated: August 21, 2018, 12:11:37
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    ABSOLUTE-PLUS-1-POS
+#    CITATIONS
+#    COMMENT
+#    COMPONENT-OF
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DOCUMENTATION
+#    HIDE-SLOT?
+#    INSTANCE-NAME-TEMPLATE
+#    LEFT-END-POSITION
+#    MEMBER-SORT-FN
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    PROMOTER-BOXES
+#    RIGHT-END-POSITION
+#    SYNONYMS
+#    UNMAPPED-COMPONENT-OF
+#
+UNIQUE-ID - PM1GMP-1
+TYPES - Promoters
+CITATIONS - 11844754:EV-EXP-IDA-TRANSCRIPTION-INIT-MAPPING:3718650102:pecocyc
+COMMENT - promoter of torECAD operon
+COMMENT - Transcription start point of torECAD operon was determined by primer extension.
+COMPONENT-OF - TU1GMP-6420
+DBLINKS - (REGTRANSBASE "91024" NIL |pecocyc| 3718650113 NIL NIL)
+UNMAPPED-COMPONENT-OF - NC_004347
+//
+UNIQUE-ID - PM1GMP-2
+TYPES - Promoters
+CITATIONS - 19238379:EV-EXP-IDA:3718650103:pecocyc
+COMMENT - SO_3585-SO_3587 operon promoter
+COMMENT - Transcriptional start point of SO_3585-SO_3587 operon was determined by 5'-RACE.
+COMPONENT-OF - TU1GMP-6422
+DBLINKS - (REGTRANSBASE "118092" NIL |pecocyc| 3718650113 NIL NIL)
+UNMAPPED-COMPONENT-OF - NC_004347
+//
